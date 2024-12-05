@@ -76,10 +76,6 @@ URL:https://ayush-pro-grammer-image-pdf-tools-app-tioims.streamlit.app/
 - PyPDF2
 - streamlit-cropper
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
