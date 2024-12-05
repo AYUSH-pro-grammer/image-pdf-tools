@@ -1,6 +1,9 @@
+# Currently under Development
 # Image and PDF Tools
 
-This project provides a set of tools for working with images and PDFs. The tools are built using Streamlit and include functionalities for converting images to PDF, merging multiple PDFs, and converting image formats.
+This project provides a little set of tools for working with images and PDFs. The tools are built using Streamlit and include functionalities for converting images to PDF, merging multiple PDFs, and converting image formats.
+
+URL:https://ayush-pro-grammer-image-pdf-tools-app-tioims.streamlit.app/
 
 ## Features
 
@@ -12,7 +15,7 @@ This project provides a set of tools for working with images and PDFs. The tools
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/image-pdf-tools.git
+    git clone https://github.com/AYUSH-pro-grammer/image-pdf-tools.git
     cd image-pdf-tools
     ```
 
@@ -27,8 +30,12 @@ This project provides a set of tools for working with images and PDFs. The tools
     ```sh
     streamlit run app.py
     ```
+    or you can also use
+   ```sh
+    python -m streamlit run app.py
+   ```
 
-2. Open your web browser and go to `http://localhost:8501` to access the tools.
+3. Open your web browser and go to `http://localhost:8501` to access the tools.
 
 ## Tools
 
